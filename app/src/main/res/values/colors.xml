@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+        <!--OLD COLOR SET:
+        <color name="colorPrimaryLight">#b4d7e0</color>
+        <color name="colorPrimary">#51a1b6</color>
+        <color name="colorPrimaryDark">#067997</color>
+        <color name="colorAccent">#D81B60</color>-->
+
+        <!--MATERIAL A700 COLOR SET-->
+        <color name="colorPrimaryLight">#88B6F2</color>
+        <color name="colorPrimary">#1B78F2</color>
+        <color name="colorPrimaryDark">#034AA6</color>
+
+        <color name="white">#FFFFFF</color>
+        <color name="grey_lt">#F0F0F0</color>
+        <color name="grey_dk">#9B9B9B</color>
+
+        <color name="transparent">#00FFFFFF</color>
+
+        <color name="primary_text">#212121</color>
+        <color name="hint_text">#5F5F5F</color>
+        <color name="secondary_text">#757575</color>
+        <color name="primary_text_disabled">#39000000</color>
 </resources>

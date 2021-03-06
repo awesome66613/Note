@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Note</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_note">New Note</string>
+    <string name="deleteNote">Delete Note</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title">Enter Title...</string>
+    <string name="content">Enter Content ...</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_splash">Splash Activity</string>
 </resources>
